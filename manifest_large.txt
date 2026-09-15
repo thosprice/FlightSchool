@@ -1,0 +1,2 @@
+X-Plane 9/Resources/default apt dat/Earth nav data/apt.dat
+X-Plane 9/Resources/default data/earth_nav.dat
