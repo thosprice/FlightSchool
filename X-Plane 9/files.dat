@@ -1,0 +1,101 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5C6E-882E
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9
+
+09/15/2026  08:10 AM    <DIR>          .
+09/14/2026  02:35 PM    <DIR>          ..
+09/15/2026  08:10 AM                 0 files.dat
+09/15/2026  08:10 AM               491 hash_tree.bat
+09/15/2026  08:09 AM    <DIR>          Output
+09/14/2026  02:47 PM    <DIR>          Resources
+09/15/2026  08:06 AM                 0 tree_hashes.txt
+               3 File(s)            491 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output
+
+09/15/2026  08:09 AM    <DIR>          .
+09/15/2026  08:10 AM    <DIR>          ..
+09/15/2026  08:09 AM    <DIR>          logbooks
+09/15/2026  08:09 AM    <DIR>          preferences
+09/14/2026  02:48 PM    <DIR>          situations
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\logbooks
+
+09/15/2026  08:09 AM    <DIR>          .
+09/15/2026  08:09 AM    <DIR>          ..
+09/15/2026  08:09 AM            80,856 X-Plane Pilot.txt
+               1 File(s)         80,856 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences
+
+09/15/2026  08:09 AM    <DIR>          .
+09/15/2026  08:09 AM    <DIR>          ..
+09/15/2026  08:09 AM             4,257 Keys X-Plane.prf
+09/15/2026  08:09 AM               500 Screen Res.prf
+09/15/2026  08:09 AM               997 X-Plane-BINARY.prf
+09/15/2026  08:09 AM            79,667 X-Plane.prf
+               4 File(s)         85,421 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations
+
+09/14/2026  02:48 PM    <DIR>          .
+09/15/2026  08:09 AM    <DIR>          ..
+05/20/2016  08:51 PM             3,661 Big Bear City.sit
+01/22/2016  02:07 PM             3,661 Borrego Valley.sit
+01/30/2018  08:36 PM             3,661 Cooperstown Westville UPDated.sit
+05/07/2019  03:07 PM             3,661 Cross Country #1.sit
+05/07/2019  03:13 PM             3,661 Cross Country #2.sit
+05/07/2019  03:16 PM             3,661 Cross Country #3.sit
+05/07/2019  03:18 PM             3,661 Cross Country #4.sit
+05/07/2019  03:20 PM             3,661 Cross Country #5.sit
+05/07/2019  03:22 PM             3,661 Cross Country #6.sit
+06/02/2024  11:46 AM             3,661 Cross Country #7.sit
+06/18/2021  12:39 PM             3,661 Cross Country #8.sit
+02/08/2022  09:52 AM             3,661 Homerville.sit
+04/27/2022  10:25 AM             3,661 KISP 12kt left wind hold short RWY24.sit
+04/03/2023  02:37 PM             3,661 KISP hold short RWY 24.sit
+02/25/2025  01:36 PM             3,661 KMCK 22KT Left crosswind.sit
+02/25/2025  01:37 PM             3,661 KMCK 22KT Right crosswind.sit
+04/20/2023  09:44 AM             3,661 Lee Field.sit
+01/30/2018  08:33 PM             3,661 Mt Sterling Montgomery UPDated.sit
+01/17/2023  11:11 AM             3,661 Navigation Quiz Practice.sit
+01/30/2018  08:34 PM             3,661 Russell Regional UPDated.sit
+01/30/2018  08:25 PM             3,661 sPORTSMAN UPDated.sit
+01/22/2016  02:00 PM             3,661 Valley Point.sit
+04/28/2022  01:42 PM             3,661 Whidbey Airpark.sit
+              23 File(s)         84,203 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources
+
+09/14/2026  02:47 PM    <DIR>          .
+09/15/2026  08:10 AM    <DIR>          ..
+09/14/2026  02:47 PM    <DIR>          default apt dat
+09/14/2026  02:39 PM    <DIR>          default data
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default apt dat
+
+09/14/2026  02:47 PM    <DIR>          .
+09/14/2026  02:47 PM    <DIR>          ..
+09/14/2026  02:47 PM    <DIR>          Earth nav data
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default apt dat\Earth nav data
+
+09/14/2026  02:47 PM    <DIR>          .
+09/14/2026  02:47 PM    <DIR>          ..
+01/06/2025  05:04 PM        83,125,063 apt.dat
+               1 File(s)     83,125,063 bytes
+
+ Directory of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default data
+
+09/14/2026  02:39 PM    <DIR>          .
+09/14/2026  02:47 PM    <DIR>          ..
+09/14/2026  02:42 PM         2,066,360 earth_nav.dat
+               1 File(s)      2,066,360 bytes
+
+     Total Files Listed:
+              33 File(s)     85,442,394 bytes
+              26 Dir(s)  718,043,045,888 bytes free

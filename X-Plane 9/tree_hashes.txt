@@ -1,0 +1,131 @@
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\files.dat 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\files.dat:
+9dd6c97839a22b6eec9eb9e4679c16281528c61c82589cf152748d08de024300
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\hash_tree.bat 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\hash_tree.bat:
+245550f045bf85f4fe643147f80f95ffbde2ebafa78958f7ff2490ba23c7d15a
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\tree_hashes.txt 
+CertUtil: -hashfile command FAILED: 0x80070020 (WIN32: 32 ERROR_SHARING_VIOLATION)
+CertUtil: The process cannot access the file because it is being used by another process.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\logbooks\X-Plane Pilot.txt 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\logbooks\X-Plane Pilot.txt:
+e9b022007b6c9588272df4ecce57dec4095a7a0f7a9c3a5156893b129cc6e308
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\Keys X-Plane.prf 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\Keys X-Plane.prf:
+3a4edb86fc813ffbc22d8523d6e4ba39c36f3e5d262744613bdaeab4cfbb3e9a
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\Screen Res.prf 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\Screen Res.prf:
+cb1d04946735ad111b5d4d67d57f73d6297ef47dfcf00db135e060d49a2a5a3e
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\X-Plane-BINARY.prf 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\X-Plane-BINARY.prf:
+287ee4a4f296a41fc58630ae78aa78a3715847376fa4cb4bc6e6462853cc3d3d
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\X-Plane.prf 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\preferences\X-Plane.prf:
+182b6f115af607f942373ed187db65d8b01da096cde06843ee7a1b1315e7c3bc
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Big Bear City.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Big Bear City.sit:
+b72f4085b9d9936cb6a7ae4c3398c1272e1636c4bb5b4a5d04d9d60ef2f877ed
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Borrego Valley.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Borrego Valley.sit:
+774aad41afd6116834613a6ae184bcbbc2b341a58bede7a07c36749fb45d61f2
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cooperstown Westville UPDated.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cooperstown Westville UPDated.sit:
+bbfb47aa57248d4b8d3dd4a93070e6c9b22f3b264c26d4c1ba35c3dba6c58604
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #1.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #1.sit:
+30b7e7357e99ed3b3d02f0d7c53ea4475a425fd13ec7ccc6607b6ae8c1880dfe
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #2.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #2.sit:
+0e937d462dffecb765aed295fc3cb6e71f919b63874bd0f37160cd6fda635995
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #3.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #3.sit:
+e9e2f44e50d8638d17d35c4c07438ab31b8d65db95e7125b12433fd8ac26e8d6
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #4.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #4.sit:
+40061484b21b3eba1cbf95038f771efbc8a3fdf51a9edc979ebfc868abde1b63
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #5.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #5.sit:
+2b5e127611d861823ccb18a4785f00547a668b90d9d3a5c07ac1be3112974b86
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #6.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #6.sit:
+cf6c195c3ec0b7bc580e4c191d2fa27e3b761e505a98c10220b02767daabf78c
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #7.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #7.sit:
+3d7f2804870946a46911750dc35d1a3293109c08123529c56f0752b57b981b72
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #8.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Cross Country #8.sit:
+e001cf4ed3eb9f5a35eeec8086053f65c8f3d69aea02ef307045efd8f163eb7f
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Homerville.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Homerville.sit:
+a8654dd624171b5788408ff645603e8f449bef2cd6b3fdbdd8095a372a6a126b
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KISP 12kt left wind hold short RWY24.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KISP 12kt left wind hold short RWY24.sit:
+a20f645e252ade91b6975c920292bacc64e61d65492b08c199dfa79cd491d422
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KISP hold short RWY 24.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KISP hold short RWY 24.sit:
+7af881f65392e4ab73542f96535c2b4c60553b06702baaea023898617cb3328b
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KMCK 22KT Left crosswind.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KMCK 22KT Left crosswind.sit:
+956a00da54927d84e8db9346b6a1499ec744fad1ef363ea8c9deb718d893b712
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KMCK 22KT Right crosswind.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\KMCK 22KT Right crosswind.sit:
+2896c3ecd62d7cfe63194b197c00c21e6227f595460820d521001e308d5a1c81
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Lee Field.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Lee Field.sit:
+332934a5439fba304ab6b19483523ff12c3a50896846180a4b2db139b856a6e0
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Mt Sterling Montgomery UPDated.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Mt Sterling Montgomery UPDated.sit:
+158b081b3badd7c9e05adac7192e7c94f5d867bdcf34186a640d33af9b6c834d
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Navigation Quiz Practice.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Navigation Quiz Practice.sit:
+37514eb3f416e77cda96555cf537dd4a31039a5ecd8e09b9250f658284407a1a
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Russell Regional UPDated.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Russell Regional UPDated.sit:
+189c5bd8caf46aed40c5e4c46b3e4571fc49807c02206afba514edd8799b1037
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\sPORTSMAN UPDated.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\sPORTSMAN UPDated.sit:
+1aaa47df4c5e2355d1bcaacb3e25dd832ba1f7f6bfff28af441d0c6c42138f86
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Valley Point.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Valley Point.sit:
+cbd8bde473f4fdf5173d6a53fb8a9acb7ef97bc8de0c7e357740c2e3f5aa701f
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Whidbey Airpark.sit 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Output\situations\Whidbey Airpark.sit:
+2d1c0aed7e22b7af13a43fd0311ebe0e8a83d861ca4f336b18b1b07e7bb05400
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default apt dat\Earth nav data\apt.dat 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default apt dat\Earth nav data\apt.dat:
+71a002ccaa60aff9deec06e2c783203d0f7b81377381b21a7e59fdcf4448086f
+CertUtil: -hashfile command completed successfully.
+File: C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default data\earth_nav.dat 
+SHA256 hash of C:\Users\TPrice\AppData\Local\VirtualStore\Program Files (x86)\X-Plane 9\Resources\default data\earth_nav.dat:
+0a8c6820c88ac41452064aadcc3251243682af70d072491c86afadaa4a4f072b
+CertUtil: -hashfile command completed successfully.
