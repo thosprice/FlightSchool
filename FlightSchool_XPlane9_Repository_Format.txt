@@ -1,0 +1,36 @@
+FlightSchool X-Plane 9 launcher — repository format
+
+The launcher expects these two files at RepoBaseUrl:
+
+1. manifest.txt
+2. hashes.txt
+
+Both files must have the same first version header, for example:
+
+# FLIGHTSCHOOL_VERSION=2026.09.16.01
+
+manifest.txt then contains one repository-relative file path per line.
+Comments beginning with # are ignored.
+
+Example:
+# FLIGHTSCHOOL_VERSION=2026.09.16.01
+X-Plane 9/Output/preferences/Keys X-Plane.prf
+X-Plane 9/Output/ ...
+
+hashes.txt contains one path:SHA256 mapping for every manifest entry.
+
+Example:
+# FLIGHTSCHOOL_VERSION=2026.09.16.01
+X-Plane 9/Output/preferences/Keys X-Plane.prf:3a4edb86fc8 ...
+X-Plane 9/Output/preferences/Screen Res.prf:cb1d04946735a ...
+
+The launcher executes the following:
+- downloads manifest.txt and hashes.txt from GitHub;
+- ensures matching version headers to download;
+- retains exact downloaded copies of manifest and hashes in %TEMP%\LastDownloaded;
+- checks existing VirtualStore files against hashes.txt;
+- downloads replacements only when needed;
+- verifies each replacement against the downloaded hashes.txt BEFORE replacing anything;
+- leaves LastDownloaded in place after the run.
+
+No administrator elevation is requested by this launcher.
