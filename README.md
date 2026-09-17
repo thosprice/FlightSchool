@@ -8,3 +8,7 @@ Repository contains the following files:<br>
  manifest.txt   - List of path\file for each X-Plane 9 file<br>
   is different for technical reasons that I can't explain)<br>
   LaunchXPlane.vbs - VBScript for W11 to implement the ISO check and to download known good copies of the manifest files before launching XPlane 9
+
+I have identified jsdelivr, a free CDN that automatically mirrors any public GitHub repo and serves its file contents from a completely different domain (cdn.jsdelivr.net) as an alternative if the school's ZScaler blocks Github The only change needed is swapping RepoBaseUrl to something like:
+
+https://cdn.jsdelivr.net/gh/thosprice/FlightSchool@main
