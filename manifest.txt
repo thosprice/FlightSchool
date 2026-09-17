@@ -6,7 +6,6 @@ X-Plane 9/Output/preferences/X-Plane.prf
 X-Plane 9/Output/situations/Big Bear City.sit
 X-Plane 9/Output/situations/Borrego Valley.sit
 X-Plane 9/Output/situations/Cooperstown Westville UPDated.sit
-X-Plane 9/Output/situations/Cross Country #1.sit
 X-Plane 9/Output/situations/Cross Country #2.sit
 X-Plane 9/Output/situations/Cross Country #3.sit
 X-Plane 9/Output/situations/Cross Country #4.sit
@@ -28,3 +27,4 @@ X-Plane 9/Output/situations/Valley Point.sit
 X-Plane 9/Output/situations/Whidbey Airpark.sit
 X-Plane 9/Resources/default apt dat/Earth nav data/apt.dat
 X-Plane 9/Resources/default data/earth_nav.dat
+X-Plane 9/Output/situations/Cross Country #1.sit
