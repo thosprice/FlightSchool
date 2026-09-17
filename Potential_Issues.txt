@@ -1,0 +1,33 @@
+Gemini:
+	 1) VBScript wrapper will work if batch files won't as long as wscript.exe is not blocked. Medium risk of being a future problem.
+	  2) A special purpose .exe created from the confirmed working batch file will work unless app whitelisting is implemented. My take is that this will also take down X-Plane itself, which will be a whole other can of worms.  Gemini assesses a low future risk.
+Claude :
+	 1) There are two flavors to cmd.exe restriction. The batch file may continue to run if the sysadmin disables interactive cmd.exe but continues to allow batch.
+	 2) Powershell may work if a script can be launched via powershell -ExecutionPolicy Bypass -File script.ps1 from a shortcut. This will work if interactive PowerShell console is what is currently and in the future is what is being blocked
+ Copilot:
+	1) ISO mounting is the highest risk area, and may be blocked outright. options would be to avoid the ISO by putting the contents in a local directory (X-Plane won't allow this) or have IT to assume the mounting responsibility, folding the ISO check into the login. Moving to a later version of X-Plane will obviate this.
+	2) Github may be filtered. The fix here is to transfer to an approved file hosting. Internal file share, IIS web server, SharePoint doc library and Azure storage account are suggested alternatives.
+	3) Curl may be restricted. Powershell invoke-webrequest or bits are suggested as fallbacks on this issue. My input on this is that other special purpose .exe may or W11 app/feature may be an alternative
+	4) Copilot flags VirtualStore dependency as the highest risk (with ISO, I guess. We have two highest risks). My take is that X-Plane9 will also break in this instance. If we are using later versions of XPlane, we'll have to change our procedure anyway.
+	5) scripting blocks will only be able to be worked around with signed executable using C#, VB.NET, or compiled executable.
+	
+	Summarizing Copilot, issues are ISO, Github access, and VirtualStore access
+ChatGPT
+	In addition to warnings not to try to elevate the batch file or use task scheduler
+	1) Similar concern as CoPilot with ISO and VirtualStore
+	2) Hash verification is a potential failure point because hash references come from the same repository as the files, which can be corrupted
+	3) The also identify an issue with a findstr command that might identify the wrong file if one filename is a subset of another. 
+	4) ChatGPT gave me the following table
+	
+				Restriction	What you can do
+			CMD is blocked													Replace .bat with an approved GUI launcher/shortcut or signed executable
+			PowerShell is blocked										Don't depend on PowerShell; use an approved launcher/application
+			curl is blocked													Have sysops allow the approved repository/domain or use an internal file server
+			ISO mounting is blocked									Have sysops pre-mount the image or provide an approved mounting mechanism
+			Writing VirtualStore is blocked								Move writable simulator data to a user-writable directory
+			Program Files execution is blocked						Have sysops install the simulator somewhere approved
+			GitHub/raw.githubusercontent.com blocked			Mirror the files to an approved school server
+			Student cannot execute arbitrary scripts				Package the launcher as an approved application and have sysops deploy it
+			All of the above are prohibited								The launcher cannot legitimately overcome that policy; sysops need to provide the required capability
+	
+	
