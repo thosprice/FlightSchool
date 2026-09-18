@@ -93,6 +93,8 @@ SimPath = "C:\Program Files (x86)\X-Plane 9\X-Plane.exe"
 ' them before this runs at school.
 
 Dim RepoBaseUrl
+' switch the order of the following two lines if githubusercontent.com is no longer available
+RepoBaseUrl = "https://cdn.jsdelivr.net/gh/thosprice/FlightSchool@main"
 RepoBaseUrl = "https://raw.githubusercontent.com/thosprice/FlightSchool/refs/heads/main"
 
 ' Google Form - submitted on FAILURE ONLY. Public endpoint, no auth needed.
